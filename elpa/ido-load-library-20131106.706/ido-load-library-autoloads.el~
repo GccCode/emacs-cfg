@@ -1,0 +1,13 @@
+;;; ido-load-library-autoloads.el --- automatically extracted autoloads
+;;
+;;; Code:
+
+
+(provide 'ido-load-library-autoloads)
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; no-update-autoloads: t
+;; coding: utf-8
+;; End:
+;;; ido-load-library-autoloads.el ends here
